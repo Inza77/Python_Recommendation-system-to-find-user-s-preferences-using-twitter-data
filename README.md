@@ -18,4 +18,3 @@ Cosine similarity is utilized to measure the similarity between user preferences
 Recommendations:
 Using the computed cosine similarities, we generate personalized recommendations for users. These recommendations are tailored to each user's preferences and are based on the places that have the highest similarity to the content they have previously interacted with positively on Twitter.
 
-![image](https://github.com/Inza77/Python_Recommendation-system-to-find-user-s-preferences-using-twitter-data/assets/167274893/049d4187-16b2-4789-b023-b6b85a974fc3)
